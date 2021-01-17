@@ -56,4 +56,3 @@ is a structural design pattern that separates objects into three distinct groups
 ### NOTE:
 
 - As you can see in the codable models in the project the cases that covers codingKeys should have been plural entites in json response from backend e.g the key contestant in the matchInfo object should have been contestants as its representing an arrray of objects.
-}
